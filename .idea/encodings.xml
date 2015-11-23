@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.openshift" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/api/HomePage.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/conf/factory/AccountFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/conf/factory/CashFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/conf/factory/ExpenseFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/conf/factory/IncomeFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/conf/factory/UserFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/domain/Account.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/domain/Cash.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/domain/Expense.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/domain/Income.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/domain/Item.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/domain/User.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/model/AccountResource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/model/CashResource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/model/ItemResource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/repository/AccountRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/repository/CashRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/repository/ItemRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/repository/UserRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/service/Service.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/service/UserService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/quantumsoftwaresolutions/quantumfinance/service/impl/UserServiceImpl.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/quantumsoftwaresolutions/quantumfinance/api" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/quantumsoftwaresolutions/quantumfinance/domain" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/quantumsoftwaresolutions/quantumfinance/repository" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/quantumsoftwaresolutions/quantumfinance/service" charset="windows-1252" />
+  </component>
+</project>
